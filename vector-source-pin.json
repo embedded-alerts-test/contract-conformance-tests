@@ -1,0 +1,20 @@
+{
+  "contractVersion": 1,
+  "linearIssue": "DEN-3040",
+  "productRepository": "embedded-alerts/eal-lib-core",
+  "revision": "39a175b0cd79a5e8eff78263925107f06df250bd",
+  "schema": "embedded_alerts",
+  "purpose": "webpage_search",
+  "expected": {
+    "exactDimensions": 4100,
+    "indexedDimensions": 4000,
+    "fullPrecisionIndexCeiling": 2000,
+    "halfPrecisionIndexCeiling": 4000,
+    "maximumSourceDimensions": 4096,
+    "targets": [
+      "postgresql",
+      "neon",
+      "supabase"
+    ]
+  }
+}
