@@ -2,7 +2,7 @@
   "contractVersion": 1,
   "linearIssue": "DEN-3040",
   "productRepository": "embedded-alerts/eal-lib-core",
-  "revision": "7e75f3c41b3762a8243ad58eced66289a3250719",
+  "revision": "4eba270feaeb64cb4be928e2a4b63bf4a4198325",
   "schema": "embedded_alerts",
   "purpose": "webpage_search",
   "expected": {
